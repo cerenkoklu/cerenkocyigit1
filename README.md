@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Ceren Koçyiğit</h1>
+<h1 align="center">Hi 👋 , I'm Ceren Köklü</h1>
 
 - 🎓 I graduated from Bahcesehir University Software Engineering department.
 - 👩🏻‍💻 I am currently working as an iOS developer in MigrosOne.
