@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Ceren Koçyiğit</h1>
 
 - 🎓 I graduated from Bahcesehir University Software Engineering department.
-- 👩🏻‍💻 I am currently working as an iOS developer in Appcent.
+- 👩🏻‍💻 I am currently working as an iOS developer in MigrosOne.
 - 💌 You can reach me on [cerenkocyigit96@gmail.com](mailto:cerenkocyigit96@gmail.com)
 
 <h3 align="left">Connect with me</h3>
